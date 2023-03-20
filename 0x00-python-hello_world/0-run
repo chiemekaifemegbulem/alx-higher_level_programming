@@ -1,4 +1,3 @@
 #!/bin/bash/
 python3 $PYFILE
-print ("Welcome Samuel Ifemegbulem to python programming world :)")
 
